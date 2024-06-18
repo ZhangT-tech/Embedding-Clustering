@@ -27,5 +27,5 @@ Based on his code, I added the evaluation on the choice of parameters in HDBSCAN
 ![image](https://github.com/ZhangT-tech/Embedding-Clustering/assets/75977524/2f5341af-8fb1-4cea-ad97-ef88071a079f)
 
 
-## Best parameter clustering results
+## Best parameters clustering result
 ![image](https://github.com/ZhangT-tech/Embedding-Clustering/assets/75977524/07c45f9d-4a6f-408e-8723-4e6146e56b11)
