@@ -14,7 +14,7 @@ Please install the environment:
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-
+```
 
 The data can be obtained from [Kaggle](https://www.kaggle.com/datasets/dylanjcastillo/news-headlines-2024?resource=download).
 
