@@ -5,11 +5,11 @@ OpenAI_API_KEY is needed, please add the key to the `.env` file:
 
 ```plaintext
 OPENAI_API_KEY=<your-api-key>
+```
 
 ## Installation
 
 Please install the environment:
-```
 
 ```sh
 python -m venv .venv
